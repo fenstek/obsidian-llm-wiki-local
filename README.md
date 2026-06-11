@@ -9,6 +9,8 @@ Drop a markdown file into a folder. The pipeline reads it, extracts concepts, an
 <img width="400" height="390" alt="image" src="https://github.com/user-attachments/assets/0b3998bd-af4d-4f3f-a2da-8334a0e81711"/>
 </p>
 
+Related reading: Utildesk's guide to [persistent AI memory across sessions, projects, and models](https://tools.utildesk.de/ratgeber/persistente-ki-memory-2026-kontext-zwischen-sessions-projekten-und-modellen/) compares this kind of durable knowledge layer with assistant memory, agent frameworks, and retrieval systems.
+
 ---
 
 ## The idea (Karpathy's LLM Wiki)
